@@ -20,7 +20,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import com.eaa.login.registration.token.ConfirmationToken;
 import com.eaa.login.registration.token.ConfirmationTokenService;
 
-@RunWith(SpringRunner.class)
+@RunWith(SpringRunner.class) 
 @SpringBootTest
 public class AppUserServiceTest {
 
